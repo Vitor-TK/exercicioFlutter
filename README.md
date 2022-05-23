@@ -1,5 +1,7 @@
 # ex_flutter_v2
 
+Executar com o comando flutter run --no-sound-null-safety
+
 A new Flutter project.
 
 ## Getting Started
